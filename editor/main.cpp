@@ -13,7 +13,6 @@ int main()
 {
     char buffer[1000];
     char *lines[3];
-    //std::string input = "This is a sentence\nThe quick brown fox jumped over the lazy dog\nBlah Blah Blah";
     int count=0;
     while(!std::cin.eof())
     {
